@@ -3,7 +3,7 @@
 
 ### 💻 Python Developer | Electronics & Telecommunication Student
 
-I'm currently learning Python, programming and software development.
+I'm currently learning Python, data science and software development.
 I enjoy building projects and improving my technical skills.
 
 ---
@@ -21,8 +21,25 @@ I enjoy building projects and improving my technical skills.
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,mysql,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,mysql,netlify,vscode,git,github)](https://skillicons.dev)
 ---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.instagram.com/swayamm__09/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/swayam-kumbhare-837318267?utm_source=share_via&utm_content=profile&utm_medium=member_android/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:swayamkumbhare95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats
 
