@@ -24,6 +24,8 @@ I enjoy building projects and improving my technical skills.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,mysql,netlify,vscode,git,github)](https://skillicons.dev)
 ---
 
+
+
 ## 🌐 Socials
 
 <p align="left">
