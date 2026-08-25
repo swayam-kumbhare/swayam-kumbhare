@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Swayam
+# I'm Swayam Kumbhare
 
 ### 💻 Python Developer | Electronics & Telecommunication Student
 
@@ -33,19 +33,8 @@ I enjoy building projects and improving my technical skills.
 
 ---
 
-## 📂 My Projects
-
-| Project | Description |
-|---|---|
-| Python Programs | Beginner Python programs |
-| Mini Projects | Small projects for practice |
-| College Project | Academic/project work |
-
----
-
 ## 📊 GitHub Stats
 
-![Swayam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swayam0903&show_icons=true)
 
 ---
 
@@ -55,17 +44,7 @@ I enjoy building projects and improving my technical skills.
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/swayam0903)
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
-
-- 🔭 I’m currently working on data science & analytics project
-- 🌱 I’m currently learning data science & analytics
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
