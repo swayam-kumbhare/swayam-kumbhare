@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Swayam Kumbhare
 
-### 💻 Python Developer | Electronics & Telecommunication Student
+### 💻 Python Developer | Electronics & Communication Student
 
 I'm currently learning Python, data science and software development.
 I enjoy building projects and improving my technical skills.
