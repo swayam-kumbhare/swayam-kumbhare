@@ -21,30 +21,20 @@ I enjoy building projects and improving my technical skills.
 
 ## 🛠️ Tech Stack
 
-### Languages
-🐍 Python  
-💻 C  
-☕ Java
-
-### Tools
-🐙 Git & GitHub  
-📓 Jupyter Notebook  
-🖥️ VS Code
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,mysql,git,github,vscode)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
+
 
 
 ---
 
 ## 🔥 GitHub Streak
 
----
-
-## 🌐 Connect With Me
 
 
 ---
 
+## 🌐 Connect 
 ⭐ Thanks for visiting my profile!
